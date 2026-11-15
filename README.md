@@ -55,7 +55,7 @@ It uses an HC-SR04 ultrasonic sensor to measure the distance of an object and a 
 
 ## 🎥 Project Demonstration
 
-[▶️ Watch Automatic Dustbin Project Demo](Video%20Project%201.mp4)
+[▶️ Watch Automatic Dustbin Project Demo](https://drive.google.com/file/d/1-5EM_ZFitTIz8HqIdcpmrq5lfuKV7ONd/view?usp=drive_link)
 
 ## 💻 Source Code
 
